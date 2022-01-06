@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1963958488",
+    "project_id": "bookyourflightapp",
+    "storage_bucket": "bookyourflightapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1963958488:android:074518c608075592d637ad",
+        "android_client_info": {
+          "package_name": "com.superprojects.bookyourflightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1963958488-6fc8sphqdme9l47lbgn17la51pqfctj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm05iqgLOtBZVLq_URq4EC0kMiPmEW6MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1963958488-6fc8sphqdme9l47lbgn17la51pqfctj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
